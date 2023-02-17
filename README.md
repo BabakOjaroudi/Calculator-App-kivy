@@ -1,5 +1,5 @@
 # Calculator-App-kivy
-#This is a sample of Calculator App with Python , Includes four main operations
+This is a sample of Calculator App with Python , Includes four main operations
 
 
 
@@ -7,17 +7,17 @@
 #Packaging the App
 
 ####Packaging Your App for Android#####
-$ pip install buildozer
+ pip install buildozer
 
 [app]
 
-# (str) Title of your application
+### (str) Title of your application
 title = KvCalc
 
-# (str) Package name
+### (str) Package name
 package.name = kvcalc
 
-# (str) Package domain (needed for android/ios packaging)
+### (str) Package domain (needed for android/ios packaging)
 package.domain = org.kvcalc
 
 
